@@ -26,4 +26,5 @@ greeting = "hi"
 console.log(greeting, person)
 console.log(greeting, person)
 
+//Variables allow us to make the exact same code product different results, making programs versatile 
 
